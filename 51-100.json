@@ -1,0 +1,302 @@
+[
+{
+"question_type": "single",
+"title": "以下不属于公钥密码的优点的是（）。",
+"options": [
+"A 加密速度快、计算简单",
+"B 解决了密钥传递问题",
+"C 大大减少了密钥持有量",
+"D 提供了对称密码无法或很难提供的服务（数字签名）"
+],
+"answer": "A",
+"analysis": "公钥密码计算复杂、消耗资源大。",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["密码学", "非对称加密"]
+},
+{
+"question_type": "single",
+"title": "《刑法》第二百八十五条【非法侵入计算机信息系统罪】违反国家规定，侵入国家事务、国防建设、尖端科学技术领域的计算机信息系统的，（）",
+"options": [
+"A 处三年以下有期徒刑或者拘役。",
+"B 三年以上五年以下有期徒刑或者拘役",
+"C10000 元罚款",
+"D1000 元罚款"
+],
+"answer": "A",
+"analysis": "处三年以下有期徒刑或者拘役。",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["网络安全法律法规", "刑法"]
+},
+{
+"question_type": "single",
+"title": "以下防范即时通信安全威胁做法错误的是（ ）",
+"options": [
+"A 聊天时不发送个人敏感信息",
+"B 进行转账等操作时通过电话等可靠渠道二次确认",
+"C 不随意点击群里的链接",
+"D 在朋友圈发布自己在工作单位的自拍照"
+],
+"answer": "D",
+"analysis": "随意发布自己在工作单位的自拍照会有敏感信息泄露等风险",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["即时通信安全", "个人信息防护"]
+},
+{
+"question_type": "single",
+"title": "随着网络安全问题日益凸显，安全设备也呈现多样化趋势，以下不属于网络安全设备的是（）。",
+"options": [
+"A 路由器",
+"B 防火墙",
+"C 入侵检测系统",
+"D 网闸"
+],
+"answer": "A",
+"analysis": "路由器不是网络安全设备。",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["网络设备", "安全设备区分"]
+},
+{
+"question_type": "single",
+"title": "二维码是现在生活中非常重要的一部分，但随意扫码可能带来信息泄露等安全风险，下列选项中相对安全的是（ ）",
+"options": [
+"A 朋友圈中微商发布的二维码",
+"B 小道消息得来的信用卡提额二维码",
+"C 街头扫描送礼品的二维码",
+"D 在官网下载 APP 时扫描的官方公众号二维码"
+],
+"answer": "D",
+"analysis": "官网的公众号二维码一般都是安全的",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["二维码安全", "个人信息防护"]
+},
+{
+"question_type": "single",
+"title": "以下属于星型拓扑结构的优点的是（）。",
+"options": [
+"A 结构简单，连接方便",
+"B 管理和维护都较为容易",
+"C 扩展性强",
+"D 以上都是"
+],
+"answer": "D",
+"analysis": "星型拓扑结构简单，连接方便，管理和维护都较为容易，并且扩展性强，是目前应用最广泛的网络结构。",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["计算机网络", "网络拓扑"]
+},
+{
+"question_type": "single",
+"title": "以下关于移动互联网安全防护的说法不正确是（）",
+"options": [
+"A 设备 / 环境安全：设备环境不重要，能运行就可以。",
+"B 业务应用安全：业务管理信息安全和控制信息安全。",
+"C 技术系统安全：信息完整性，保密性，不可否认性。",
+"D 个人隐私保护：不传播非法、违背社会公德、侵犯公民隐私的信息。"
+],
+"answer": "A",
+"analysis": "设备 / 环境安全：设备环境符合标准要求，防攻击防入侵。",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["移动互联网安全"]
+},
+{
+"question_type": "single",
+"title": "当你收到一份邮件时，比较安全的处理办法是（ ）",
+"options": [
+"A 确定发件人是否可信，然后使用杀毒软件对附件进行查杀后再查看",
+"B 直接打开附件",
+"C 只要邮件是认识的人发来的，那它就是安全的",
+"D 按照邮件中的要求填写个人详细信息"
+],
+"answer": "A",
+"analysis": "确定发件人是否可信后使用杀毒软件对附件进行查杀后再查看可有效降低安全风险",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["邮件安全"]
+},
+{
+"question_type": "single",
+"title": "网络安全设备是保护网络安全的设施，以下不属于安全设备的是（）。",
+"options": [
+"A 防火墙",
+"BWAF",
+"CCPU",
+"DVPN Network"
+],
+"answer": "C",
+"analysis": "CPU 不属于安全设备。",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["网络设备", "安全设备区分"]
+},
+{
+"question_type": "single",
+"title": "以下选项关于电子邮件存在的安全隐患说法不准确的是 ( )",
+"options": [
+"A 电子邮件传输协议不加密",
+"B 攻击者可能通过自建 SMTP 服务器来实现发送伪造地址的邮件",
+"C 电子邮件缺乏对发送者严格的身份验证机制",
+"D 电子邮件的使用者都缺乏安全意识"
+],
+"answer": "D",
+"analysis": "D 选项说法过于绝对",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["邮件安全"]
+},
+{
+"question_type": "single",
+"title": "以下基于实体所有的鉴别威胁的是（）。",
+"options": [
+"A 用于鉴别的物品可能被复制",
+"B 用于鉴别的物品可能被篡改",
+"C 用于鉴别的物品可能被损坏",
+"D 以上都是"
+],
+"answer": "D",
+"analysis": "基于实体所有的鉴别威胁有：用于鉴别的物品可能被复制、篡改、损坏。",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["身份鉴别"]
+},
+{
+"question_type": "single",
+"title": "以下不属于包过滤技术的优点的是（）。",
+"options": [
+"A 安全性较差，不提供用户认证功能。",
+"B 逻辑简单，功能容易实现，设备价格便宜。",
+"C 处理速度快，在处理速度上具有一定的优势，对网络性能影响也较小。",
+"D 过滤规则与应用层无关，无须修改主机上的应用程序，易于安装和使用。"
+],
+"answer": "A",
+"analysis": "A 选项是静态包过滤的缺点。",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["防火墙", "包过滤"]
+},
+{
+"question_type": "single",
+"title": "每一个计算机网络都由节点和（）构成，节点也称为（）。",
+"options": [
+"A 链路 数据单元",
+"B 链路 网络单元",
+"C 网络 网络单元",
+"D 网络 数据单元"
+],
+"answer": "B",
+"analysis": "每一个计算机网络都由节点和链路构成，节点也称为网络单元。",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["计算机网络基础"]
+},
+{
+"question_type": "single",
+"title": "以下哪个属于移动互联网安全威胁（）",
+"options": [
+"A 业务层面：非法业务访问、违法数据访问、拒绝服务攻击、垃圾信息的泛滥、不良信息的传播、个人隐私和敏感信息的泄露、内容版权盗用和不合理的使用。",
+"B 网络层面：接入网非法窃听、用户身份仿冒、服务器滥用占用带宽、破坏数据和信息完整性、非授权定位等。",
+"C 终端层面：病毒、木马、网络钓鱼、身份伪冒、DDOS 攻击、窃取隐私、非授权使用资源、远程控制等。",
+"D 以上都是"
+],
+"answer": "D",
+"analysis": "互联网安全威胁包括业务层面、网络层面、终端层面。",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["移动互联网安全"]
+},
+{
+"question_type": "single",
+"title": "邮件炸弹攻击是（ ）",
+"options": [
+"A 破坏受害者的邮箱服务器",
+"B 消耗受害者的邮箱空间",
+"C 破坏受害者的邮件客户端",
+"D 破坏受害者的电脑"
+],
+"answer": "B",
+"analysis": "邮件炸弹是通过向接收者发送大量邮件，耗尽邮箱空间，无法接收新邮件。",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["邮件安全", "邮件炸弹"]
+},
+{
+"question_type": "single",
+"title": "下列哪个不属于工控网络的特点（）",
+"options": [
+"A 网络通讯协议不同，大量的工控系统采用私有协议",
+"B 对系统稳定性要求高，网络安全造成误报等同于攻击",
+"C 系统运行环境不同，工控系统运行环境相对先进",
+"D 更新代价高，无法像办公网络那样通过补丁解决安全问题"
+],
+"answer": "C",
+"analysis": "工控系统运行环境相对落后。",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["工控安全"]
+},
+{
+"question_type": "single",
+"title": "关闭 windows 系统 445 端口后无法使用下列哪个功能（ ）",
+"options": [
+"A 共享文件夹",
+"B 远程桌面",
+"CTelnet",
+"DFTP"
+],
+"answer": "A",
+"analysis": "远程桌面 3389、Telnet23、FTP21，445 用于文件共享。",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["Windows 安全", "端口"]
+},
+{
+"question_type": "single",
+"title": "双绞线传输带宽逐步扩大，最常用的以太网属于（）。",
+"options": [
+"A 五类线",
+"B 超五类线",
+"C 六类线",
+"D 七类线"
+],
+"answer": "A",
+"analysis": "最常用的以太网电缆是五类线。",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["传输介质", "双绞线"]
+},
+{
+"question_type": "single",
+"title": "以下哪个口令比较安全（）",
+"options": [
+"Aadmin123",
+"BPassword",
+"CQq123W2!",
+"D147poi"
+],
+"answer": "C",
+"analysis": "C 包含大小写、数字、特殊字符，复杂度高。",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["口令安全", "身份鉴别"]
+},
+{
+"question_type": "single",
+"title": "防火墙的策略有（）。",
+"options": [
+"A 接受：允许通过。",
+"B 拒绝：拒绝信息通过，通知发送信息源。",
+"C 丢弃：直接丢弃信息，不通知信息源。",
+"D 以上都是。"
+],
+"answer": "D",
+"analysis": "防火墙策略分为接受、拒绝、丢弃。",
+"difficulty": "medium",
+"category_name": "网络安全基础知识",
+"tags": ["防火墙"]
+}
+]
